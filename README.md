@@ -13,7 +13,7 @@ A lot of new information/ The most intresting is [Learning git branching](https:
 
 - [x] ##Linux CLI, and HTTP  
 
-[Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_linux_cli)
-[https://linuxsurvival.com/] (https://linuxsurvival.com/) is very good tutorial to Linux, everything was clear.  
+[Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_linux_cli)  
+[https://linuxsurvival.com/](https://linuxsurvival.com/) is very good tutorial to Linux, everything was clear.  
 New for me was information about HTTP/HTTPS protocols and client-server architecture.
 
