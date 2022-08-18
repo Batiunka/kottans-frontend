@@ -9,10 +9,10 @@ A lot of new information/ The most intresting is [Learning git branching](https:
 
 ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)
 
-[Link](https://github.com/Batiunka/kottans-frontend) to my repo
+###[Link](https://github.com/Batiunka/kottans-frontend) to my repo
 ---
 
-## - [x]  Linux CLI, and HTTP  
+- [x]  Linux CLI, and HTTP  
 
 [Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_linux_cli)  
 
