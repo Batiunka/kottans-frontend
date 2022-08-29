@@ -12,3 +12,5 @@ A lot of new information/ The most intresting is [Learning git branching](https:
 [Link](https://github.com/Batiunka/kottans-frontend) to my repo
 
 ## Linux CLI, and HTTP [link]("kottans-frontend\task_linux_cli")
+
+## Git Collaboration [link]("kottans-frontend\task_git_collaboration")
