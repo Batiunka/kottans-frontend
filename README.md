@@ -11,6 +11,15 @@ A lot of new information/ The most intresting is [Learning git branching](https:
 
 [Link](https://github.com/Batiunka/kottans-frontend) to my repo
 
-## Linux CLI, and HTTP [link]("kottans-frontend\task_linux_cli")
+- [x] Linux CLI, and HTTP
 
-## Git Collaboration [link]("kottans-frontend\task_git_collaboration")
+[Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_linux_cli)
+
+[https://linuxsurvival.com/](https://linuxsurvival.com/) is very good tutorial to Linux, everything was clear.  
+New for me was information about HTTP/HTTPS protocols and client-server architecture.
+
+- [x] Git Collaboration  
+
+[Link to skrinshots]("kottans-frontend\task_git_collaboration") 
+
+Progressive using of Git remotes was difficult but i've done it :muscle:
