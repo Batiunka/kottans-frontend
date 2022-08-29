@@ -20,6 +20,6 @@ New for me was information about HTTP/HTTPS protocols and client-server architec
 
 - [x] Git Collaboration  
 
-[Link to skrinshots]("kottans-frontend\task_git_collaboration") 
+[Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_git_collaboration) 
 
 Progressive using of Git remotes was difficult but i've done it :muscle:
