@@ -22,4 +22,21 @@ New for me was information about HTTP/HTTPS protocols and client-server architec
 
 [Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_git_collaboration) 
 
-Progressive using of Git remotes was difficult but i've done it :muscle:
+Progressive using of Git remotes was difficult but i've done it :muscle:  
+
+- [x] Intro to HTML and CSS  
+[Link to skrinshots](https://github.com/Batiunka/kottans-frontend/tree/main/task_html_css_intro)  
+
+What's new for me:  
+
+- Node.js and Browser-sync  
+- Try to track changes with browser-sync  
+- The history of development of HTML  
+- 7 content models  
+- The Universal (*) Selector  
+- Background-image  
+- Media queries  
+- In Web develppment tools there is possibility to check represantation of web-page on different devices  
+- Viewport met teg to turn off default mobile zooming  
+
+I'll use in future everything that i've learnd in course on Coursera because it's fundamentals of HTML/CSS.
